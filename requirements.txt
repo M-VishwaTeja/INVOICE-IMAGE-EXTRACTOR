@@ -2,5 +2,5 @@ streamlit
 google-generativeai
 python-dotenv
 langchain
-PyPDF2 load read etc pdf
-chromadb vector embedding
+PyPDF2 (load read etc pdf)
+chromadb (vector embedding)
